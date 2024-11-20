@@ -21,7 +21,7 @@
 - GitHub
 - Python
 
-## Примеры кода
+## Пример кода
 
 ```javascript
 let players = userInput();
