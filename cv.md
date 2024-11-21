@@ -18,17 +18,10 @@
   - HTML
   - CSS
   - JavaScript
-    - React JS
+    - React JS(основы)
 - Backend
   - Python
 - GitHub
-
-- HTML
-- CSS
-- JavaScript
-- React JS(основы)
-- GitHub
-- Python
 
 ```mermaid
 flowchart
