@@ -14,12 +14,29 @@
 
 ## Навыки
 
+- Frontend
+  - HTML
+  - CSS
+  - JavaScript
+    - React JS
+- Backend
+  - Python
+- GitHub
+
+- HTML
+- CSS
+- JavaScript
+- React JS(основы)
+- GitHub
+- Python
+
 ```mermaid
 flowchart
 A[Skills]-->B((Frontend))
 A-->E((Backend))
 A-->H((GitHub))
 E-->F[Python]
+B-->I[HTML]
 B-->C[CSS]
 B-->D[JavaScript]
 D-->G[React JS]
