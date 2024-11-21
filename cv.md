@@ -14,12 +14,15 @@
 
 ## Навыки
 
-- HTML
-- CSS
-- JavaScript
-- React JS(основы)
-- GitHub
-- Python
+```mermaid
+flowchart
+A[Навыки]-->B[HTML]
+A-->C[CSS]
+A-->D[JavaScript]
+A-->E[React JS(основы)]
+A-->F[GitHub]
+A-->G[Python]
+```
 
 ## Пример кода
 
