@@ -16,12 +16,13 @@
 
 ```mermaid
 flowchart
-A[Навыки]-->B[HTML]
-A-->C[CSS]
-A-->D[JavaScript]
-A-->E[React JS(основы)]
-A-->F[GitHub]
-A-->G[Python]
+A[Skills]-->B((Frontend))
+A-->E((Backend))
+A-->H((GitHub))
+E-->F[Python]
+B-->C[CSS]
+B-->D[JavaScript]
+D-->G[React JS]
 ```
 
 ## Пример кода
